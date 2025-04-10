@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tami.Pago.Core", "Tami.Pago.Core\Tami.Pago.Core.csproj", "{93E851D3-4A9E-4908-AF17-193CF9A085DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tami.Pago.UI", "Tami.Pago.UI\Tami.Pago.UI.csproj", "{76835941-AEA7-4135-A0DE-17009CBEEEC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93E851D3-4A9E-4908-AF17-193CF9A085DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E851D3-4A9E-4908-AF17-193CF9A085DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E851D3-4A9E-4908-AF17-193CF9A085DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E851D3-4A9E-4908-AF17-193CF9A085DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76835941-AEA7-4135-A0DE-17009CBEEEC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76835941-AEA7-4135-A0DE-17009CBEEEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76835941-AEA7-4135-A0DE-17009CBEEEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76835941-AEA7-4135-A0DE-17009CBEEEC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C07875F-1642-47FF-B4D1-3BFA40924B6A}
+	EndGlobalSection
+EndGlobal
